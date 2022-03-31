@@ -1,5 +1,11 @@
 dev file, WIP
 
+// Story1 - part1 logic
+x = 1;
+y = 2;
+z = x * y;
+return z
+
 // logic for story 1 part 2
 func(a,b){
     return a*b;
