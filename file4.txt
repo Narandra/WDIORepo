@@ -1,1 +1,6 @@
 dev file, WIP
+
+// logic for story 1 part 2
+func(a,b){
+    return a*b;
+}
