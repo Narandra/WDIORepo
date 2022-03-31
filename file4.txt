@@ -10,3 +10,8 @@ return z
 func(a,b){
     return a*b;
 }
+
+//story 2 part 2 logic
+func(x,y){
+    return x*y;
+}
