@@ -15,3 +15,13 @@ func(a,b){
 func(x,y){
     return x*y;
 }
+
+//Story 2 - part 1 logic
+
+x = 1;
+y = 2;
+z = x * y;
+return z
+
+
+
