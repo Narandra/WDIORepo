@@ -1,0 +1,3 @@
+This is a Java Program
+To check the number of occurences of each character in a string
+It uses HashSet to get the unique characters
